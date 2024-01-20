@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  justify-content: center;
+}
+table{
+  border: 1px solid red;
+}
+tr td, tr th{
+  padding: 10px;
+  border: 1px solid purple;
+
+}
+#trow-default{
+  text-align: center;
+}
